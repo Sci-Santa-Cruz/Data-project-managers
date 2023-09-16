@@ -1,0 +1,20 @@
+el sobreajuste se genera al desarrollar un modelo más complejo que lo necesario. La presión fundamental del aprendizaje automático está en el ajuste correcto de nuestros datos, pero también en el ajuste de los datos de la manera más simple posible.
+Guillermo de Ockham, un fraile y filósofo del siglo XIV, amaba la simplicidad. Creía que los científicos debían preferir las fórmulas o teorías más simples en lugar de aquellas más complejas. Para expresar la navaja de Ockham en términos de aprendizaje automático:
+
+    Cuanto menos complejo sea un modelo de AA, más probable será que un buen resultado empírico no se deba simplemente a las peculiaridades de la muestra.
+
+
+    la complejidad del modelo
+    el rendimiento del modelo con respecto a los datos de entrenamiento
+
+    El conjunto de prueba es lo suficientemente grande.
+    No haces trampa usando el mismo conjunto de prueba una y otra vez.
+
+
+
+    Los ejemplos se obtienen independiente e idénticamente (i.i.d) de manera aleatoria de la distribución. En otras palabras, los ejemplos no se influyen entre sí. (Una explicación alternativa: i.i.d. es una forma de hacer referencia a la aleatoriedad de las variables).
+    La distribución es estacionaria, es decir, no cambia dentro del conjunto de datos.
+    Los ejemplos se obtienen de particiones de la misma distribución.
+
+
+    
