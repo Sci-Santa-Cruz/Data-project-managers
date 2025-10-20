@@ -5,14 +5,3 @@ El desempeño predictivo de modelos de ML complejos (los que tienen muchos atrib
 La regularización ayuda a prevenir que los modelos lineales realicen un sobreajuste de los ejemplos de datos de entrenamiento penalizando los valores de peso extremos. La regularización L1 reduce el número de funciones utilizadas en el modelo y aumenta el peso de características que, de otro modo, tendrían a cero los pesos muy reducidos. La regularización L1 produce modelos dispersos y reduce la cantidad de ruido en el modelo. La regularización L2 produce en general valores de peso más pequeños, lo que estabiliza las ponderaciones cuando hay gran correlación entre las funciones. Puede controlar la cantidad de regularización L1 o L2 mediante el parámetro Regularization amount. Especificar un valor extremadamente grande de Regularization amount puede provocar que todas las funciones tengan un peso igual a cero.
 
 La selección y el ajuste del valor de regularización óptimo es un tema candente en la investigación del aprendizaje automático. Probablemente se beneficiará de seleccionar una cantidad moderada de regularización L2, que es la opción predeterminada en la consola de Amazon ML. Los usuarios avanzados pueden elegir entre tres tipos de regularización (ninguna, L1, o L2) y de cantidad. Para obtener más información sobre la regularización, consulte Regularization (mathematics) (en inglés). 
-
-:Q69}]2e9N:V5R
-Servidor: 8venado-bienesraices.com.mx o 52.52.49.94
-Puerto: 333
-Usuario: venadobi
-
-
-
-    Servidor FTP: 52.52.49.94
-    Usuario: web@8venado-bienesraices.com.mx
-    Contraseña:t}-9AJ=_6N
